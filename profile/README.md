@@ -19,9 +19,11 @@ I invite you to get to know your fellow team members, tap into their expertise, 
 
 Thank you for being a part of this exceptional team. Let's continue to embrace the future with enthusiasm and determination.
 
-Warm regards,
+*Warm regards*,
 
-Rameshkumar Rajarathanam
+***Rameshkumar Rajarathanam***
+
+[Simtestlab](https://simtestlab.se)
 
 <!--
 
